@@ -1,6 +1,6 @@
 # R: Correlation In Fine Particulate Mattter (PM) Air Pollution
 
-"__Repository Description:__
+__Repository Description:__
 <br/>
 This repository stores the work as part of the Data Science: Foundations using R specialization by Johns Hopkins University. Course URL: https://www.coursera.org/specializations/data-science-foundations-r. Code in this repository is written by myself, Kristen Phan.
 <br/>
